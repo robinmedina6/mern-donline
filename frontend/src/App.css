@@ -1,0 +1,17 @@
+body {
+    background: rgb(255, 195, 0);
+}
+.material-icons {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+#navpr{
+    background-color: cornsilk !important;
+    color:black !important;
+}
+#titulopr{
+    color:black !important;
+    /*font-weight: bold;*/
+}
